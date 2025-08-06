@@ -62,32 +62,33 @@ This Power BI dashboard is designed to help users track and analyze their person
 
 | Dashboard | 
 |--------------------------|
-| ![](https://github.com/abhaysiva/Healthcare-efficiency-POWER-BI/blob/33257b59a5a7966692903b1b66ba30c74541851f/SnapShot%20of%20Dashboards/1.png)| 
+| ![](https://github.com/abhaysiva/Personal-Finance-Dashboard-Power-BI-project/blob/e520f239a69653c95ed11d2466e2f519805504f7/SnapShot%20of%20DashBoard/1.png)| 
 
 
 
 ---
 | Month-Level Performance Insights | 
 |--------------------------|
-| ![](https://github.com/abhaysiva/Healthcare-efficiency-POWER-BI/blob/33257b59a5a7966692903b1b66ba30c74541851f/SnapShot%20of%20Dashboards/8.png)| 
+| ![](https://github.com/abhaysiva/Personal-Finance-Dashboard-Power-BI-project/blob/e520f239a69653c95ed11d2466e2f519805504f7/SnapShot%20of%20DashBoard/5.png)| 
 
 ---
 
 
 |Month-Yr Filter|Year Filter|
 |-------------|-------------|
-| ![patient_outcome_analysis](https://github.com/abhaysiva/Healthcare-efficiency-POWER-BI/blob/33257b59a5a7966692903b1b66ba30c74541851f/SnapShot%20of%20Dashboards/3.png) | ![healthcare_provider_metrics](https://github.com/abhaysiva/Healthcare-efficiency-POWER-BI/blob/33257b59a5a7966692903b1b66ba30c74541851f/SnapShot%20of%20Dashboards/4.png)|
+| ![patient_outcome_analysis](https://github.com/abhaysiva/Personal-Finance-Dashboard-Power-BI-project/blob/e520f239a69653c95ed11d2466e2f519805504f7/SnapShot%20of%20DashBoard/4.png) | ![healthcare_provider_metrics](https://github.com/abhaysiva/Personal-Finance-Dashboard-Power-BI-project/blob/e520f239a69653c95ed11d2466e2f519805504f7/SnapShot%20of%20DashBoard/6.png)|
 
 ---
 |Real-Time Trend Visualization| 
 |--------------------------|
-| ![](https://github.com/abhaysiva/Healthcare-efficiency-POWER-BI/blob/33257b59a5a7966692903b1b66ba30c74541851f/SnapShot%20of%20Dashboards/8.png)| 
+| ![](https://github.com/abhaysiva/Personal-Finance-Dashboard-Power-BI-project/blob/e520f239a69653c95ed11d2466e2f519805504f7/SnapShot%20of%20DashBoard/7.png)| 
+
 ---
 
 
 |Savings Tooltip|Expense Tooltip|
 |-------------|-------------|
-| ![patient_outcome_analysis](https://github.com/abhaysiva/Healthcare-efficiency-POWER-BI/blob/33257b59a5a7966692903b1b66ba30c74541851f/SnapShot%20of%20Dashboards/3.png) | ![healthcare_provider_metrics](https://github.com/abhaysiva/Healthcare-efficiency-POWER-BI/blob/33257b59a5a7966692903b1b66ba30c74541851f/SnapShot%20of%20Dashboards/4.png)|
+| ![](https://github.com/abhaysiva/Personal-Finance-Dashboard-Power-BI-project/blob/e520f239a69653c95ed11d2466e2f519805504f7/SnapShot%20of%20DashBoard/3.png) | ![](https://github.com/abhaysiva/Personal-Finance-Dashboard-Power-BI-project/blob/e520f239a69653c95ed11d2466e2f519805504f7/SnapShot%20of%20DashBoard/2.png)|
 
 
 ---
@@ -95,19 +96,11 @@ This Power BI dashboard is designed to help users track and analyze their person
 
 ### ER Diagram
 
-![er_diagram](https://github.com/abhaysiva/Healthcare-efficiency-POWER-BI/blob/f619c8ac855de4b0536daf74cfd9a3824e4de5cd/SnapShot%20of%20Dashboards/erdiagram.png)
-
-
----
-
-
-
-
-
+![er_diagram](https://github.com/abhaysiva/Personal-Finance-Dashboard-Power-BI-project/blob/e520f239a69653c95ed11d2466e2f519805504f7/SnapShot%20of%20DashBoard/8.png)
 
 ---
 
-### Usage
+## Usage
 
 1. **Clone the Repository:**
    ```bash
